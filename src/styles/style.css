@@ -28,3 +28,24 @@ header .nav_content .nav_itens .nav_links {
   text-transform: lowercase;
   font-size: 16px;
 }
+
+.introduction .introduction_box .introduction_image img {
+  width: 98px;
+}
+
+.skills_section .skills_list .skills_items img,
+.hobbies_section .hobbies_list li img {
+  width: 35px;
+}
+
+.formation_section .formation_box .formation_content .image_content img {
+  width: 200px;
+}
+
+.projects_box .projects_content .projects_image--box img {
+  width: 90%;
+}
+
+.contact_section img {
+  display: none;
+}
