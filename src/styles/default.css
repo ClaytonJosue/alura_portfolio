@@ -1,0 +1,16 @@
+:root {
+  --buttons-color: #1E6F9F;
+  --bg-color: #F5F5F5;
+  --text-color: #464646;
+  --second-bg: #EAF2FD;
+  --white-color: #FFFFFF; 
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+}
