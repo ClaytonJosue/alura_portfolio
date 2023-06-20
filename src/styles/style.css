@@ -72,6 +72,23 @@ header .nav_content .nav_itens .nav_links {
   font-weight: 600;
 }
 
+.aboutme_section {
+  background: var(--second-bg);
+  padding: 20px 10px;
+}
+
+.aboutme_section .aboutme_title {
+  font-size: 22px;
+  color: var(--text-color);
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+.aboutme_section .aboutme_text {
+  font-size: 15px;
+  color: var(--text-color);
+}
+
 .skills_section .skills_list .skills_items img,
 .hobbies_section .hobbies_list li img {
   width: 35px;
